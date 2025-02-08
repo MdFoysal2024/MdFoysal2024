@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="540" src="https://i.ibb.co.com/Rrpx6Nw/Github-Cover-photo.jpg"  />
+  <img height="420" src="https://i.ibb.co.com/Rrpx6Nw/Github-Cover-photo.jpg"  />
 </div>
 
 ###
