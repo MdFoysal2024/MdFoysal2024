@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
  
   <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
