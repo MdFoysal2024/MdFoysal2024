@@ -66,11 +66,20 @@
 ###
 
 <div align="center">
+   <a href="https://www.linkedin.com/in/md-foysal-74784a210/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+   </a>
+  
    <img width="12" />
+  <a href="https://www.facebook.com/profile.php?id=61560835027825" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
- 
+   </a>
+    
+  <img width="12" />
+   <a href="https://x.com/MdFoysa18845601" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+   </a>
+  
 </div>
 
 
